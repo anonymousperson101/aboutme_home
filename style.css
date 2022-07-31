@@ -1,0 +1,11 @@
+body{background-image: url("https://media4.giphy.com/media/Wy3Q0fuNIJmYn62Lcv/giphy-downsized-large.gif");
+    background-repeat: no-repeat;background-size: cover;
+}
+div img{padding-top: 60px;width: 200px;height: 150px;}
+#title{color:white;background-color:rgb(0,0,65);display: flex;justify-content: center;}
+.content{padding-bottom:40px;padding-left: 50px;margin-top: 50px;margin-right: 1050px;background-color:rgb(0,0,65);display:flex;justify-content: flex-start;align-content: space-around;flex-direction: column;}
+
+#about_me{color: yellow;}
+#projects{color:red;}
+h3{color: white;}
+#con-txt{color:white;background-color:rgb(0,0,65);display: flex;justify-content:flex-end;margin-top:20px;margin-bottom: 150px;margin-left: 200px;}
